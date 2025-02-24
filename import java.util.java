@@ -19,7 +19,7 @@ public class SliceoHeaven {
         this.storePhone = storePhone;
         this.storeMenu = new HashMap<>();
         this.pizzaIngredients = new HashMap<>();
-        this.sides = new HashMap<>();
+        this.sides = new HashMap<>();·
         this.drinks = new HashMap<>();
         this.orderID = 0;
         this.orderTotal = 0.0;
